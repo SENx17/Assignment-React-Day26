@@ -1,0 +1,15 @@
+.form-container {
+  width: 30rem;
+  background-color: rgba(130, 130, 130, 0.4);
+  margin: 7rem 0;
+  border-radius: 1.2rem;
+}
+
+.form-container .form {
+  width: 25rem;
+  height: auto;
+  padding: 2rem 0.25rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
